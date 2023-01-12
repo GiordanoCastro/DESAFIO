@@ -1,0 +1,54 @@
+*{ 
+    margin: 0em;
+    padding: 0em;
+}
+body {
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.encabezado {
+    height: 15em;
+    padding: 2em;
+    margin: 7em;
+    font-size: 1em;
+    background-image: url(../img/baner1.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.encabezado h1 {
+    margin: 1em;
+    color: darkgray;
+}
+
+.productos {
+    width: 50%;
+    margin: auto;
+    height: auto;
+}
+
+.productos td {
+
+    width: 80%;
+    padding: 2em;
+}
+
+.productos img {
+
+    width: 20em;
+    
+}
+
+.productos p{
+
+        background-color: black;
+        color: white;
+}
+.pie {
+    height: auto;
+    background-color:maroon;
+    color:white;
+    text-align: center;
+}
+
